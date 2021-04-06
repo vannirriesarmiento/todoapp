@@ -1,0 +1,32 @@
+postgress
+
+CTRL + /
+CTRL + Shift + /
+
+todo
+1 cleaning
+2 online class
+3 cook
+4 swimming
+5 jogging 
+6 writing
+
+category
+1 school
+2 social
+3 household
+
+school
+- online class
+- writing
+- jogging
+
+household
+- cleaning
+- chores (newly added)
+- cook
+
+social
+- online class
+- swimming
+- jogging

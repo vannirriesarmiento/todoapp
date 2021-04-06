@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Sarmiento To Do App",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vannirriesarmiento/todoapp.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Sarmiento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vannirriesarmiento/todoapp/issues"
+  },
+  "homepage": "https://github.com/vannirriesarmiento/todoapp#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
